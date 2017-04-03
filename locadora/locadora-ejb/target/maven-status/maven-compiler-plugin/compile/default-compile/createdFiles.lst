@@ -1,0 +1,13 @@
+br/unifor/locadora/data/MemberRepository.class
+br/unifor/locadora/data/MemberListProducer.class
+br/unifor/progweb/entitys/Midia.class
+teste.class
+br/unifor/progweb/entitys/Plataforma.class
+br/unifor/progweb/dao/ProgramaTeste.class
+br/unifor/progweb/entitys/Genero.class
+br/unifor/progweb/entitys/Jogo.class
+br/unifor/progweb/dao/JogoDAO.class
+br/unifor/locadora/service/MemberRegistration.class
+br/unifor/locadora/model/Member.class
+br/unifor/locadora/util/Resources.class
+br/unifor/progweb/entitys/Produtora.class

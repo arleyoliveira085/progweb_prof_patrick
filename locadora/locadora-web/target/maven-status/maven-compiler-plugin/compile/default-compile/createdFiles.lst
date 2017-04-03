@@ -1,0 +1,4 @@
+br/unifor/locadora/rest/JaxRsActivator.class
+br/unifor/locadora/controller/MemberController.class
+br/unifor/locadora/util/WebResources.class
+br/unifor/locadora/rest/MemberResourceRESTService.class
